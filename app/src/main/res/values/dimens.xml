@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="standardWidth">90dp</dimen>
+    <dimen name="standardHeight">110dp</dimen>
+    <dimen name="textAddress">14sp</dimen>
+</resources>
