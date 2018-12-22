@@ -1,5 +1,5 @@
 # MyTourGuide
-
+An Android Application that is based on fragments, displays Tourist attractions like Hotels , Food , Fun , History  in categories
 ## Overall Layout
 App contains at least 4 lists of relevant attractions for a location
 
